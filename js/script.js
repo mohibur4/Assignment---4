@@ -1,4 +1,5 @@
-// ====== Variables ======
+
+
 const allTab = document.getElementById("allTab");
 const interviewTab = document.getElementById("interviewTab");
 const rejectedTab = document.getElementById("rejectedTab");
